@@ -21,10 +21,10 @@ public:
         }
 
         int left = helper(node->left, res), right = helper(node->right, res);
-        int temp = max(node->val, max(left + node->val, right + node->val));
+        int maxVal = max(node->val, max(left + node->val, right + node->val));
 
-        res = max(temp, max(left + right + node->val, res));
+        res = max(maxVal, max(left + right + node->val, res));
 
-        return res;
+        return maxVal;
     }
 };
