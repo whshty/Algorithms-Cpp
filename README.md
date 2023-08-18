@@ -4,6 +4,8 @@
 
 ## Bit Manipulation
 
+## Math
+
 ## Sliding Window
 
 ## Matrix
@@ -31,3 +33,9 @@
 ## Graph
 
 ## Graph BFS
+
+## DP
+
+### 1D
+
+### 2D
