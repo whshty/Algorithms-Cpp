@@ -24,7 +24,7 @@
 
 ## Tree
 
-### 124. Binary Tree Maximum Path Sum (https://github.com/whshty/Algorithms-Cpp/tree/master/Solution/124.%20Binary%20Tree%20Maximum%20Path%20Sum)
+### [124. Binary Tree Maximum Path Sum] (https://github.com/whshty/Algorithms-Cpp/tree/master/Solution/124.%20Binary%20Tree%20Maximum%20Path%20Sum)
 
 ### Binary Tree BFS
 
