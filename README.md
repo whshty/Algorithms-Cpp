@@ -1,6 +1,12 @@
 ## BFS & DFS 
 
+### 1D 
+
+* [22. Generate Parentheses]()
+
 ## Binary Tree 
+
+
 
 ### Binary Tree Traversal
 
