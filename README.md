@@ -1,4 +1,4 @@
-## BFS & DFS 
+## BFS & DFS (https://github.com/whshty/Algorithms-Cpp/tree/master/Solution/BFS%20%26%20DFS)
 
 ### 1D 
 
