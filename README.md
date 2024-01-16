@@ -5,6 +5,8 @@
 * [22. Generate Parentheses](https://github.com/whshty/Algorithms-Cpp/tree/master/Solution/BFS%20%26%20DFS/1D/22.%20Generate%20Parentheses)
 * [39. Combination Sum]()
 * [40. Combination Sum II]()
+* [77. Combinations]()
+* [322. Coin Change]()
 
 ## [Binary Tree](https://github.com/whshty/Algorithms-Cpp/tree/master/Solution/Binary%20Tree) 
 
