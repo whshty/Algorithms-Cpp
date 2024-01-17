@@ -7,7 +7,7 @@
 * [40. Combination Sum II]()
 * [77. Combinations]()
 * [78. Subsets]()
-* [90. Subsets II]
+* [90. Subsets II]()
 * [322. Coin Change]()
 
 ## [Binary Tree](https://github.com/whshty/Algorithms-Cpp/tree/master/Solution/Binary%20Tree) 
@@ -27,6 +27,7 @@
 
 * [101. Symmetric Tree]()
 * [199. Binary Tree Right Side View]()
+* [257. Binary Tree Paths]()
 
 
 ### [Bottom-Up]()
