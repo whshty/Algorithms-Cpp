@@ -1,10 +1,18 @@
+## [Linear Structure]()
+
+### [Sum]()
+* [1. Two Sum]()
+* [15. 3Sum]()
+
 ## [BFS/DFS](https://github.com/whshty/Algorithms-Cpp/tree/master/Solution/BFS%20%26%20DFS)
 
 ### [1D](https://github.com/whshty/Algorithms-Cpp/tree/master/Solution/BFS%20%26%20DFS/1D) 
 
+* [17. Letter Combinations of a Phone Number]()
 * [22. Generate Parentheses](https://github.com/whshty/Algorithms-Cpp/tree/master/Solution/BFS%20%26%20DFS/1D/22.%20Generate%20Parentheses)
 * [39. Combination Sum]()
 * [40. Combination Sum II]()
+* [46. Permutations]()
 * [77. Combinations]()
 * [78. Subsets]()
 * [90. Subsets II]()
