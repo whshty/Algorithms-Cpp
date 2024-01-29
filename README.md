@@ -4,6 +4,17 @@
 * [1. Two Sum]()
 * [15. 3Sum]()
 
+### [Sliding Window]()
+
+* [3. Longest Substring Without Repeating Characters]()
+
+
+### [LinkedList]()
+
+#### [Single]()
+
+* [2. Add Two Numbers]()
+
 ## [BFS/DFS](https://github.com/whshty/Algorithms-Cpp/tree/master/Solution/BFS%20%26%20DFS)
 
 ### [1D](https://github.com/whshty/Algorithms-Cpp/tree/master/Solution/BFS%20%26%20DFS/1D) 
@@ -17,6 +28,10 @@
 * [78. Subsets]()
 * [90. Subsets II]()
 * [322. Coin Change]()
+
+### [2D]() 
+
+* [79. Word Search]()
 
 ## [Binary Tree](https://github.com/whshty/Algorithms-Cpp/tree/master/Solution/Binary%20Tree) 
 
@@ -41,3 +56,9 @@
 ### [Bottom-Up]()
 
 * [100. Same Tree]()
+
+## [Graph]()
+
+### [Traversal]()
+
+* [133. Clone Graph]()

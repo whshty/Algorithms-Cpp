@@ -4,11 +4,12 @@ public:
         if (s.length() == 0) return 0;
         unordered_map<char, int> map;
         int i = 0, j = 0, res = INT_MIN;
-        while (j <s.length()) {
+        while (j < s.length()) {
             map[s[j]]++;
             if (map.size() == j-i+1) {
                 res = max(res,j-i+1);
             }
+            // Remove dulpicate from left
             else if (map.size() < j - i + 1) {
                 while (map.size() < j- i + 1) {
                     map[s[i]]--;

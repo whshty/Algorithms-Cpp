@@ -1,10 +1,7 @@
-
-//  There are four possible scenarios for any given subtree:
-
-// Root and maximum sum path of left subtree
-// Root and maximum sum path of right subtree
-// Root, left maximum path and right maximum path
-// Only root node
+// 1. Root and maximum sum path of left subtree
+// 2. Root and maximum sum path of right subtree
+// 3. Root, left maximum path and right maximum path
+// 4. Only root node
 class Solution {
 public:
     int maxPathSum(TreeNode* root) {

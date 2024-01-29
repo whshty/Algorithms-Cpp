@@ -1,6 +1,20 @@
 class Solution {
 public:
-      bool dfs(int i, int j, int index, vector<vector<char>>& board, string& word) {
+    bool exist(vector<vector<char>>& board, string word) {
+        int index = 0;
+        
+        for(int i = 0; i < board.size(); i++) {
+            for(int j = 0; j < board[0].size(); j++) {
+                if(board[i][j] == word[index]) {
+                    if(dfs(i, j, index, board, word)) return true;
+                }
+            }
+        }
+        
+        return false;
+    }
+
+    bool dfs(int i, int j, int index, vector<vector<char>>& board, string& word) {
         
         if(index == word.size()) return true;
         if(i < 0 or j < 0 or i >= board.size() or j >= board[0].size()) return false;
@@ -20,17 +34,4 @@ public:
         return res;
     }
 
-    bool exist(vector<vector<char>>& board, string word) {
-        int index = 0;
-        
-        for(int i = 0; i < board.size(); i++) {
-            for(int j = 0; j < board[0].size(); j++) {
-                if(board[i][j] == word[index]) {
-                    if(dfs(i, j, index, board, word)) return true;
-                }
-            }
-        }
-        
-        return false;
-    }
 };
