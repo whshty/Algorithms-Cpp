@@ -58,6 +58,12 @@
 * [257. Binary Tree Paths]()
 
 
+### [Top-Down&Bottom-Up]()
+* [98. Validate Binary Search Tree]()
+* [112. Path Sum]()
+* [129. Sum Root to Leaf Numbers]()
+
+
 ### [Bottom-Up]()
 
 * [100. Same Tree]()

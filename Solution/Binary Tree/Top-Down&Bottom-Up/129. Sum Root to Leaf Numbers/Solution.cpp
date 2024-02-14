@@ -8,10 +8,10 @@ public:
 
     void helper (TreeNode* root, int& sum, int num){
         if(!root) return;
-            num = num * 10 + root->val;
-            if(root->left == NULL && root->right == NULL) {        
-                sum += num;
-                return;
+        num = num * 10 + root->val;
+        if(root->left == NULL && root->right == NULL) {        
+            sum += num;
+            return;
         }  
         
         helper(root->left, sum, num);
