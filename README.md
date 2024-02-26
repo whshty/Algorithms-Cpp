@@ -60,6 +60,9 @@
 ### [Bottom-Up](https://github.com/whshty/Algorithms-Cpp/tree/master/Solution/Binary%20Tree/Bottom-Up)
 
 * [100. Same Tree]()
+* [110. Balanced Binary Tree]()
+* [124. Binary Tree Maximum Path Sum]
+
 
 ### [Top-Down&Bottom-Up](https://github.com/whshty/Algorithms-Cpp/tree/master/Solution/Binary%20Tree/Top-Down%26Bottom-Up)
 * [98. Validate Binary Search Tree]()
@@ -74,3 +77,7 @@
 ### [Traversal]()
 
 * [133. Clone Graph]()
+
+## [Design Data Structure]()
+
+* [380. Insert Delete GetRandom]
