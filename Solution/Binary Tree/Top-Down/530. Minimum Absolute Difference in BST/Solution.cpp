@@ -4,8 +4,7 @@ public:
         int res = INT_MAX;
         int pre = -1;
         helper(root, pre, res);
-        return res;
-        
+        return res;  
     }
 
     void helper(TreeNode *node, int &pre, int &res) {

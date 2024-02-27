@@ -56,12 +56,14 @@
 * [101. Symmetric Tree]()
 * [199. Binary Tree Right Side View]()
 * [257. Binary Tree Paths]()
+* [530. Minimum Absolute Difference in BST]()
+* [938. Range Sum of BST]()
 
 ### [Bottom-Up](https://github.com/whshty/Algorithms-Cpp/tree/master/Solution/Binary%20Tree/Bottom-Up)
 
 * [100. Same Tree]()
 * [110. Balanced Binary Tree]()
-* [124. Binary Tree Maximum Path Sum]
+* [124. Binary Tree Maximum Path Sum]()
 
 
 ### [Top-Down&Bottom-Up](https://github.com/whshty/Algorithms-Cpp/tree/master/Solution/Binary%20Tree/Top-Down%26Bottom-Up)
@@ -80,4 +82,4 @@
 
 ## [Design Data Structure]()
 
-* [380. Insert Delete GetRandom]
+* [380. Insert Delete GetRandom]()
